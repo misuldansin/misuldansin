@@ -1,3 +1,4 @@
+·•————————————————٠✤٠————————————————•·
 ## About Me
 CS student, exploring web stuff, small games, and anything fun.  
 Mostly HTML/JS, sumtimes C++ and Java.
@@ -8,4 +9,4 @@ Mostly HTML/JS, sumtimes C++ and Java.
 - 🌼 [A smol 2D falling-sand / particle sim in JavaScript](https://github.com/misuldansin/bog-engine)  
 - 🤮 Learning Java for uni (send help)
 
-·•—————————————٠✤٠—————————————•·
+·•————————————————٠✤٠————————————————•·
