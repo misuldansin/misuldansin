@@ -1,5 +1,5 @@
-▄▀█ █▄▄ █▀█ █░█ ▀█▀   █▀▄▀█ █▀▀
-█▀█ █▄█ █▄█ █▄█ ░█░   █░▀░█ ██▄
+▄▀█ █▄▄ █▀█ █░█ ▀█▀   █▀▄▀█ █▀▀  
+█▀█ █▄█ █▄█ █▄█ ░█░   █░▀░█ ██▄  
 CS student, exploring web stuff, small games, and anything fun.  
 Mostly HTML/JS, sumtimes C++ and Java.
 
